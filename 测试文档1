@@ -1,3 +1,9 @@
 测试Pull Request 的使用流程
 
 This is a paragraph. We are happy
+
+Pull Request的流程方法
+1. fork项目
+2. 修改自己仓库的项目代码，也无法直接修改别人的源代码
+3. 新建Request, 填写新加的信息与内容，如果合适的话， 就会进行合并
+4. 等待作者操作
